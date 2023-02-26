@@ -50,4 +50,4 @@
 ### The frontend client is a React application that users interact with to plan their travels. It communicates with the backend server through the API.
 
 # License
-### This project is licensed under the MIT License.
+### This project is licensed under the ISC License.
