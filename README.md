@@ -41,7 +41,6 @@
 ### DB_URL=mongodb://localhost:27017/travel-app
 ### JWT_SECRET=my-secret-key
 ### API
-### The backend server provides a REST API that can be used by the frontend to retrieve and store data. The API routes are documented in the api/routes/api.js file.
 
 # Admin Dashboard
 ### The admin dashboard is a React application that allows admin users to manage destinations, flights, accommodations, and activities. It requires authentication to ### access. The dashboard communicates with the backend server through the API.
