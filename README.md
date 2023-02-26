@@ -38,7 +38,7 @@
 ### Here is an example .env file:
 
 ### PORT=5000
-### DB_URL=mongodb://localhost:27017/travel-app
+### MONGO = mongodb+srv://USER:<password>@cluster.mongodb.net/test
 ### JWT_SECRET=my-secret-key
 ### API
 
