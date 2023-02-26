@@ -1,5 +1,5 @@
 # Travel App
-### This is a web application built using React, Node.js, Express, and JWT API that helps users plan their travels by finding information about popular tourist destinations, flights, accommodations, and activities.
+### This is a web application built using React, Node.js, Express, Mongoose, and JWT API that helps users plan their travels by finding information about popular tourist destinations, flights, accommodations, and activities.
 
 # The project is divided into three folders:
 
