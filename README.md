@@ -20,7 +20,7 @@
 # Installation
 ### To install and run this project on your local machine, follow these steps:
 
-# Clone the repository: git clone https://github.com/ahlam77/travel-app.git
+# Clone the repository: gh repo clone Ahlam77/travelApp
 ### Install dependencies for the backend: cd travel-app/api && npm install
 ### Install dependencies for the admin dashboard: cd ../admin && npm install
 ### Install dependencies for the frontend client: cd ../client && npm install
